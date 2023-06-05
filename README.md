@@ -15,7 +15,7 @@
 ```
 ```
    .\env\Scripts\activate
-```re
+
 
 
 To add files to git
@@ -37,7 +37,7 @@ git commit -m "message"
 To send version/changes to github
 ``` git push origin main
 
-
-
+heroku email_id = 
+heroku api key : 0d8eb42e-80ba-4387-bcca-7bf5db6c565b
 
 
