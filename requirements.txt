@@ -1,2 +1,8 @@
 flask
-gunicorn
+pandas
+numpy
+sklearn
+# -e . #this commands execute the housing package
+ipykernel
+six
+PyYaml
